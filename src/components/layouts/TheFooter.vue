@@ -95,7 +95,7 @@ export default {
       designer: `
         <span style="font-size:0.9em">Designed by
           <span style="color: #e27575;font-size: 14px;">❤</span>
-          <a href="https://github.com/summerblue"target="_blank"style="color:inherit">Summer</a>
+          <a href="https://github.com/summerblue"target="_blank"style="color:inherit">clearlove8</a>
         </span>
       `,
       sponsor: {
@@ -128,15 +128,15 @@ export default {
         list: [
           {
             title: '社区会员',
-            description: '22889'
+            description: '4396'
           },
           {
             title: '话题数',
-            description: '7397'
+            description: '4396'
           },
           {
             title: '评论数',
-            description: '39375'
+            description: '4396'
           }
         ]
       },
@@ -151,7 +151,7 @@ export default {
           {
             icon: 'globe',
             title: '推荐网站',
-            link: 'https://vuejscaff.com/sites'
+            link: 'http://www.clearlove.com/sites'
           }
         ]
       }
